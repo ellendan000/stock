@@ -1,0 +1,5 @@
+key-vault:
+  name: keyvault-account
+  secrets:
+    - mock-account-token
+    - jwt-secret
